@@ -1,5 +1,5 @@
 def calcular_total(precio, cantidad):
-    return precio + cantidad
+    return precio * cantidad
 
 
 if __name__ == "__main__":
